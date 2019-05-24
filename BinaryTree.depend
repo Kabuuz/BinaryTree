@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558736948 source:c:\users\hp\desktop\cpp\binarytree\binarytree\main.cpp
+	<iostream>
+	<vector>
+
